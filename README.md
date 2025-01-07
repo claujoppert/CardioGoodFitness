@@ -53,7 +53,3 @@ The dataset used for this analysis contains information on customer demographics
 ## Conclusion
 
 This analysis serves as the first step toward understanding CardioGood Fitness's customer base and will inform data-driven decisions for improving customer experience, targeting marketing campaigns, and enhancing product offerings.
-
-## How to Run the Analysis
-
-1. Clone the repository to your local machine:
